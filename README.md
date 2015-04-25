@@ -1,2 +1,5 @@
 # TurkeyCityListSpinner
-türkiye şehir plaka no ve listesi 
+
+Android
+
+Türkiye plaka no ve şehir listesi 
